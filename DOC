@@ -1,5 +1,0 @@
-insert into contact values(    null,    substring('ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', rand()*36+1, 10),substring('ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', rand()*36+1, 10));
-
-
-
-           
