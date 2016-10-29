@@ -1,2 +1,2 @@
-# springboot-rest
-Spring boot REST CRUD MYSQL
+# Spring boot Rest Example MYSQL
+
